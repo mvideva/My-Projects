@@ -1,8 +1,9 @@
 ## Welcome to Magda Videva's Projects Page
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### WEB Development
+# Latte Love website 
+[Link](https://mvideva.github.io/latte-love/)
+![Image](src)
 
 ```markdown
 Syntax highlighted code block
