@@ -3,7 +3,7 @@
 ## WEB Development
 
 ### [Latte Love website](https://mvideva.github.io/latte-love/)
-[Latte love screenshot]!(https://github.com/mvideva/portfolio/blob/master/Latte-love-screenshot.PNG)
+[Latte love screenshot]!(./Latte-love-screenshot.PNG)
 
 ```markdown
 Syntax highlighted code block
