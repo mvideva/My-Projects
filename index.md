@@ -3,7 +3,7 @@
 ## WEB Development
 
 ### [Latte Love website](https://mvideva.github.io/latte-love/)
-<img src="images/Latte-love-screenshot.PNG" width="100" alt="Latte Love website screenshot">
+<img src="images/Latte-love-screenshot.PNG" width="300" alt="Latte Love website screenshot">
 
 ## Small Basic
 
