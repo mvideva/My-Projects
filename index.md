@@ -1,6 +1,6 @@
-## Welcome to Magda Videva's Projects Page
+### Welcome to Magda Videva's Projects Page
 
-### WEB Development
+## WEB Development
 # Latte Love website 
 [Link](https://mvideva.github.io/latte-love/)
 ![Image](src)
