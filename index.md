@@ -2,9 +2,8 @@
 
 ## WEB Development
 
-### Latte Love website 
-[Link](https://mvideva.github.io/latte-love/)
-![Image](src)
+### [Latte Love website](https://mvideva.github.io/latte-love/)
+!(Latte-love-screenshot.PNG)
 
 ```markdown
 Syntax highlighted code block
